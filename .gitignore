@@ -1,0 +1,6 @@
+client/
+node_modules/
+package.json
+server.js
+mongod
+data/
